@@ -14,4 +14,4 @@
 Дополнить данные, выжать максимум фичей и попытаться сделать приемлемые недельные прогнозы.
 
 ## Используемые библиотеки
-*pandas, sklearn, keras, tensorflow, numpy, matplotlib*
+*Pandas, Sklearn, Keras, TensorFlow, Numpy, Matplotlib*
