@@ -10,7 +10,7 @@
 
 ## Результат
 
-Нейронная сеть обучалась за 15 эпох до требующегося значения MAE < 8 (Test MAE: 6.0662). В [статье о датасете](http://people.ee.ethz.ch/~timofter/publications/Agustsson-FG-2017.pdf), с которым велась работа, значение MAE было равно 5.4.
+Нейронная сеть обучалась за 15 эпох до требующегося значения метрики (Test MAE: 6.0662). В [статье о датасете](http://people.ee.ethz.ch/~timofter/publications/Agustsson-FG-2017.pdf), с которым велась работа, значение MAE было равно 5.4.
 
 ## Используемые библиотеки
 *TensorFlow, Keras, Pandas, Numpy*
